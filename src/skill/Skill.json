@@ -1,0 +1,71 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "skillName": "React.js",
+        "description": "Proficient in building dynamic and interactive user interfaces using React.js.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgTIUZMusbwf2x0NgeSVbdxNDEWXiZD-R57-upqEEWOGOniSJww-_2b9WRWQ058qDkPM&usqp=CAU"
+      },
+      {
+        "id": 1,
+        "skillName": "Next.js",
+        "description": "Next Js is a FrameWrok of react js which are using to make web apps .",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D12AQFJWfUQaQ1qPg/article-cover_image-shrink_600_2000/0/1675674296261?e=2147483647&v=beta&t=zcfSqc5__VRvgFu6e6Ll8vL4xNP_PYnbQYG4YpL9ysE"
+      },
+      {
+        "id": 2,
+        "skillName": "Express.js",
+        "description": "Experienced in developing backend services and APIs with Express.js.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPZFyy4-6ng6Krl7QYlibLQHtQBFfFmS-3Q&s"
+      },
+      {
+        "id": 3,
+        "skillName": "MongoDB",
+        "description": "Skilled in using MongoDB for designing and managing databases.",
+        "imageUrl": "https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"
+      },
+      {
+        "id": 4,
+        "skillName": "Command Prompt",
+        "description": "Adept at navigating and executing commands in the Command Prompt.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStAYuJ6M6GWshyBbHdM6MPbhX-D17IPELOX_fN0KyO6LoqbPj9ZdUV0CnD314Kvrlot5E&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "skillName": "PHP",
+        "description": "Proficient in PHP for server-side scripting and web development.",
+        "imageUrl": "https://pngimg.com/d/php_PNG43.png"
+      },
+      {
+        "id": 6,
+        "skillName": "HTML",
+        "description": "Experienced in creating web pages and structuring content using HTML.",
+        "imageUrl": "https://example.com/html-image.png"
+      },
+      {
+        "id": 7,
+        "skillName": "CSS",
+        "description": "Skilled in designing and styling web pages using CSS.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDwBd9LoQzBAZigXXxzQ0kKn6TwyrE0Y7Rg&s"
+      },
+      {
+        "id": 8,
+        "skillName": "Bootstrap",
+        "description": "Experienced in using Bootstrap for responsive web design.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkt5wzZ1LZXdBJSY1lele-BsBxzSxDph8TQA&s"
+      },
+      {
+        "id": 9,
+        "skillName": "Tailwind CSS",
+        "description": "Proficient in Tailwind CSS for utility-first web design.",
+        "imageUrl": "https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png"
+      },
+      {
+        "id": 10,
+        "skillName": "HTML",
+        "description": "a complete understanding on the basic of html .",
+        "imageUrl": "https://cdn-icons-png.flaticon.com/512/732/732212.png"
+      }
+    ]
+  }
+  

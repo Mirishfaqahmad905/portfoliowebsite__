@@ -1,0 +1,113 @@
+/* Projects.css */
+
+.container_project_myprojects {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .container_project_myprojects h3 {
+    font-size: 30px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Project container with wrapping */
+  .container_projects {
+    display: flex;
+    flex-direction: column;
+    background-color: #f1f1f1; /* Background color for the entire project box */
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Adding hover effect */
+  .container_projects:hover {
+    transform: scale(1.03);
+  }
+  
+  /* Title styling */
+  .project_title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1e1e1e;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  /* Image styling */
+  .project_image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  
+  /* Description styling */
+  .project_content {
+    font-size: 16px;
+    color: #555;
+    background-color: #fafafa; /* Background color for description */
+    padding: 10px;
+    border-radius: 10px;
+    text-align: justify;
+    margin-top: 10px;
+  }
+  
+  /* Wrapping and alignment for responsiveness */
+  .projects_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 1024px) {
+    .container_projects {
+      max-width: 45%;
+      margin: 10px;
+    }
+  
+    .project_title {
+      font-size: 22px;
+    }
+  
+    .project_content {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .container_projects {
+      max-width: 100%;
+    }
+  
+    .project_title {
+      font-size: 20px;
+    }
+  
+    .project_content {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .container_projects {
+      max-width: 100%;
+      margin: 10px 0;
+    }
+    .project_title {
+      font-size: 18px;
+    }
+    .project_content {
+      font-size: 12px;
+    }
+  }
+  

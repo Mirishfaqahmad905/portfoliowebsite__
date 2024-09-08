@@ -1,0 +1,46 @@
+/* Home and Experience Section */
+.home, .experience_section, .project_section {
+  padding: 40px 20px;
+}
+
+/* Project Section Styling */
+.container_projects {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #f4f4f4;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+.project_image img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.project_title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* General Styling */
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Navbar */
+.nav_item {
+  cursor: pointer;
+  margin: 0 15px;
+  color: yellow;
+  font-weight: bold;
+}
